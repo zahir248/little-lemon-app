@@ -55,7 +55,7 @@ This is a front-end capstone project for a restaurant booking system. It's a Rea
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/little-lemon-app.git
+   git clone [https://github.com/yourusername/little-lemon-app.git](https://github.com/zahir248/little-lemon-app.git)
    ```
 
 2. Navigate to the project directory:
